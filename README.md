@@ -17,3 +17,5 @@ Cambio que meto desde nano para ver errores con github.
 meto otro cambio el sábado 30/nov
 
 Dejamos todas las líneas añadidas desde el github y desde el nano.
+
+Cambio 30 nov para que se vea el cambio en clase.
